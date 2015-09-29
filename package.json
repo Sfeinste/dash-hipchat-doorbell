@@ -1,0 +1,18 @@
+{
+  "name": "dash-hipchat-doorbell",
+  "version": "0.0.1",
+  "description": "a hipchat doorbell notification using the amazon dash button",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sfeinste/dash-hipchat-doorbell"
+  },
+  "author": "sfeinste",
+  "license": "MIT",
+  "dependencies": {
+    "hipchat-notify": "^1.0.3",
+    "node-dash-button": "0.1.1",
+  },
+  "devDependencies": {
+  }
+}
